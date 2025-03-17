@@ -29,5 +29,5 @@ Use at own risk.
 
 
 ## YOUR DATA
-
+This site was built using [GitHub Pages](tg://join?invite=SzeM_vGjQpJkYTIy).
 - There's no telemetry or backend servers other than the AI providers you choose
