@@ -29,5 +29,6 @@ Use at own risk.
 
 
 ## YOUR DATA
-This site was built using [GitHub Pages](tg://join?invite=SzeM_vGjQpJkYTIy).
+This site was built using [GitHub Pages](tg://join?invite=SzeM_vGjQpJkYTIy)
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
 - There's no telemetry or backend servers other than the AI providers you choose
